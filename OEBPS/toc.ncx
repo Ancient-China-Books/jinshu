@@ -1,0 +1,796 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="bba97d0d-0709-45a9-9636-335a0a414beb"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.3.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>晉書</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>卷一·帝紀第一</text>
+      </navLabel>
+      <content src="Text/1131.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>卷二·帝紀第二</text>
+      </navLabel>
+      <content src="Text/1132.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>卷三·帝紀第三</text>
+      </navLabel>
+      <content src="Text/1133.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>卷四·帝紀第四</text>
+      </navLabel>
+      <content src="Text/1134.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>卷五·帝紀第五</text>
+      </navLabel>
+      <content src="Text/1135.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>卷六·帝紀第六</text>
+      </navLabel>
+      <content src="Text/1136.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>卷七·帝紀第七</text>
+      </navLabel>
+      <content src="Text/1137.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>卷八·帝紀第八</text>
+      </navLabel>
+      <content src="Text/1138.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>卷九·帝紀第九</text>
+      </navLabel>
+      <content src="Text/1139.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>卷十·帝紀第十</text>
+      </navLabel>
+      <content src="Text/1140.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>卷十一·志第一</text>
+      </navLabel>
+      <content src="Text/1141.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>卷十二·志第二</text>
+      </navLabel>
+      <content src="Text/1142.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>卷十三·志第三</text>
+      </navLabel>
+      <content src="Text/1143.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>卷十四·志第四</text>
+      </navLabel>
+      <content src="Text/1144.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>卷十五·志第五</text>
+      </navLabel>
+      <content src="Text/1145.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>卷十六·志第六</text>
+      </navLabel>
+      <content src="Text/1146.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>卷十七·志第七</text>
+      </navLabel>
+      <content src="Text/1147.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>卷十八·志第八</text>
+      </navLabel>
+      <content src="Text/1148.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>卷十九·志第九</text>
+      </navLabel>
+      <content src="Text/1149.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>卷二十·志第十</text>
+      </navLabel>
+      <content src="Text/1150.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>卷二十一·志第十一</text>
+      </navLabel>
+      <content src="Text/1151.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>卷二十二·志第十二</text>
+      </navLabel>
+      <content src="Text/1152.html"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>卷二十三·志第十三</text>
+      </navLabel>
+      <content src="Text/1153.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>卷二十四·志第十四</text>
+      </navLabel>
+      <content src="Text/1154.html"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>卷二十五·志第十五</text>
+      </navLabel>
+      <content src="Text/1155.html"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>卷二十六·志第十六</text>
+      </navLabel>
+      <content src="Text/1156.html"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>卷二十七·志第十七</text>
+      </navLabel>
+      <content src="Text/1157.html"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>卷二十八·志第十八</text>
+      </navLabel>
+      <content src="Text/1158.html"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>卷二十九·志第十九</text>
+      </navLabel>
+      <content src="Text/1159.html"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>卷三十·志第二十</text>
+      </navLabel>
+      <content src="Text/1160.html"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>卷三十一·列傳第一</text>
+      </navLabel>
+      <content src="Text/1161.html"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>卷三十二·列傳第二</text>
+      </navLabel>
+      <content src="Text/1162.html"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>卷三十三·列傳第三</text>
+      </navLabel>
+      <content src="Text/1163.html"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>卷三十四·列傳第四</text>
+      </navLabel>
+      <content src="Text/1164.html"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>卷三十五·列傳第五</text>
+      </navLabel>
+      <content src="Text/1165.html"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>卷三十六·列傳第六</text>
+      </navLabel>
+      <content src="Text/1166.html"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>卷三十七·列傳第七</text>
+      </navLabel>
+      <content src="Text/1167.html"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>卷三十八·列傳第八</text>
+      </navLabel>
+      <content src="Text/1168.html"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>卷三十九·列傳第九</text>
+      </navLabel>
+      <content src="Text/1169.html"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>卷四十·列傳第十</text>
+      </navLabel>
+      <content src="Text/1170.html"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>卷四十一·列傳第十一</text>
+      </navLabel>
+      <content src="Text/1171.html"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>卷四十二·列傳第十二</text>
+      </navLabel>
+      <content src="Text/1172.html"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>卷四十三·列傳第十三</text>
+      </navLabel>
+      <content src="Text/1173.html"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>卷四十四·列傳第十四</text>
+      </navLabel>
+      <content src="Text/1174.html"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>卷四十五·列傳第十五</text>
+      </navLabel>
+      <content src="Text/1175.html"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>卷四十六·列傳第十六</text>
+      </navLabel>
+      <content src="Text/1176.html"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>卷四十七·列傳第十七</text>
+      </navLabel>
+      <content src="Text/1177.html"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>卷四十八·列傳第十八</text>
+      </navLabel>
+      <content src="Text/1178.html"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>卷四十九·列傳第十九</text>
+      </navLabel>
+      <content src="Text/1179.html"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>卷五十·列傳第二十</text>
+      </navLabel>
+      <content src="Text/1180.html"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>卷五十一·列傳第二十一</text>
+      </navLabel>
+      <content src="Text/1181.html"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>卷五十二·列傳第二十二</text>
+      </navLabel>
+      <content src="Text/1182.html"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>卷五十三·列傳第二十三</text>
+      </navLabel>
+      <content src="Text/1183.html"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>卷五十四·列傳第二十四</text>
+      </navLabel>
+      <content src="Text/1184.html"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>卷五十五·列傳第二十五</text>
+      </navLabel>
+      <content src="Text/1185.html"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>卷五十六·列傳第二十六</text>
+      </navLabel>
+      <content src="Text/1186.html"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>卷五十七·列傳第二十七</text>
+      </navLabel>
+      <content src="Text/1187.html"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>卷五十八·列傳第二十八</text>
+      </navLabel>
+      <content src="Text/1188.html"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>卷五十九·列傳第二十九</text>
+      </navLabel>
+      <content src="Text/1189.html"/>
+    </navPoint>
+    <navPoint id="num_60" playOrder="60">
+      <navLabel>
+        <text>卷六十·列傳第三十</text>
+      </navLabel>
+      <content src="Text/1190.html"/>
+    </navPoint>
+    <navPoint id="num_61" playOrder="61">
+      <navLabel>
+        <text>卷六十一·列傳第三十一</text>
+      </navLabel>
+      <content src="Text/1191.html"/>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>卷六十二·列傳第三十二</text>
+      </navLabel>
+      <content src="Text/1192.html"/>
+    </navPoint>
+    <navPoint id="num_63" playOrder="63">
+      <navLabel>
+        <text>卷六十三·列傳第三十三</text>
+      </navLabel>
+      <content src="Text/1193.html"/>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>卷六十四·列傳第三十四</text>
+      </navLabel>
+      <content src="Text/1194.html"/>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>卷六十五·列傳第三十五</text>
+      </navLabel>
+      <content src="Text/1195.html"/>
+    </navPoint>
+    <navPoint id="num_66" playOrder="66">
+      <navLabel>
+        <text>卷六十六·列傳第三十六</text>
+      </navLabel>
+      <content src="Text/1196.html"/>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>卷六十七·列傳第三十七</text>
+      </navLabel>
+      <content src="Text/1197.html"/>
+    </navPoint>
+    <navPoint id="num_68" playOrder="68">
+      <navLabel>
+        <text>卷六十八·列傳第三十八</text>
+      </navLabel>
+      <content src="Text/1198.html"/>
+    </navPoint>
+    <navPoint id="num_69" playOrder="69">
+      <navLabel>
+        <text>卷六十九·列傳第三十九</text>
+      </navLabel>
+      <content src="Text/1199.html"/>
+    </navPoint>
+    <navPoint id="num_70" playOrder="70">
+      <navLabel>
+        <text>卷七十·列傳第四十</text>
+      </navLabel>
+      <content src="Text/1200.html"/>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>卷七十一·列傳第四十一</text>
+      </navLabel>
+      <content src="Text/1201.html"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>卷七十二·列傳第四十二</text>
+      </navLabel>
+      <content src="Text/1202.html"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>卷七十三·列傳第四十三</text>
+      </navLabel>
+      <content src="Text/1203.html"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>卷七十四·列傳第四十四</text>
+      </navLabel>
+      <content src="Text/1204.html"/>
+    </navPoint>
+    <navPoint id="num_75" playOrder="75">
+      <navLabel>
+        <text>卷七十五·列傳第四十五</text>
+      </navLabel>
+      <content src="Text/1205.html"/>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>卷七十六·列傳第四十六</text>
+      </navLabel>
+      <content src="Text/1206.html"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>卷七十七·列傳第四十七</text>
+      </navLabel>
+      <content src="Text/1207.html"/>
+    </navPoint>
+    <navPoint id="num_78" playOrder="78">
+      <navLabel>
+        <text>卷七十八·列傳第四十八</text>
+      </navLabel>
+      <content src="Text/1208.html"/>
+    </navPoint>
+    <navPoint id="num_79" playOrder="79">
+      <navLabel>
+        <text>卷七十九·列傳第四十九</text>
+      </navLabel>
+      <content src="Text/1209.html"/>
+    </navPoint>
+    <navPoint id="num_80" playOrder="80">
+      <navLabel>
+        <text>卷八十·列傳第五十</text>
+      </navLabel>
+      <content src="Text/1210.html"/>
+    </navPoint>
+    <navPoint id="num_81" playOrder="81">
+      <navLabel>
+        <text>卷八十一·列傳第五十一</text>
+      </navLabel>
+      <content src="Text/1211.html"/>
+    </navPoint>
+    <navPoint id="num_82" playOrder="82">
+      <navLabel>
+        <text>卷八十二·列傳第五十二</text>
+      </navLabel>
+      <content src="Text/1212.html"/>
+    </navPoint>
+    <navPoint id="num_83" playOrder="83">
+      <navLabel>
+        <text>卷八十三·列傳第五十三</text>
+      </navLabel>
+      <content src="Text/1213.html"/>
+    </navPoint>
+    <navPoint id="num_84" playOrder="84">
+      <navLabel>
+        <text>卷八十四·列傳第五十四</text>
+      </navLabel>
+      <content src="Text/1214.html"/>
+    </navPoint>
+    <navPoint id="num_85" playOrder="85">
+      <navLabel>
+        <text>卷八十五·列傳第五十五</text>
+      </navLabel>
+      <content src="Text/1215.html"/>
+    </navPoint>
+    <navPoint id="num_86" playOrder="86">
+      <navLabel>
+        <text>卷八十六·列傳第五十六</text>
+      </navLabel>
+      <content src="Text/1216.html"/>
+    </navPoint>
+    <navPoint id="num_87" playOrder="87">
+      <navLabel>
+        <text>卷八十七·列傳第五十七</text>
+      </navLabel>
+      <content src="Text/1217.html"/>
+    </navPoint>
+    <navPoint id="num_88" playOrder="88">
+      <navLabel>
+        <text>卷八十八·列傳第五十八</text>
+      </navLabel>
+      <content src="Text/1218.html"/>
+    </navPoint>
+    <navPoint id="num_89" playOrder="89">
+      <navLabel>
+        <text>卷八十九·列傳第五十九</text>
+      </navLabel>
+      <content src="Text/1219.html"/>
+    </navPoint>
+    <navPoint id="num_90" playOrder="90">
+      <navLabel>
+        <text>卷九十·列傳第六十</text>
+      </navLabel>
+      <content src="Text/1220.html"/>
+    </navPoint>
+    <navPoint id="num_91" playOrder="91">
+      <navLabel>
+        <text>卷九十一·列傳第六十一</text>
+      </navLabel>
+      <content src="Text/1221.html"/>
+    </navPoint>
+    <navPoint id="num_92" playOrder="92">
+      <navLabel>
+        <text>卷九十二·列傳第六十二</text>
+      </navLabel>
+      <content src="Text/1222.html"/>
+    </navPoint>
+    <navPoint id="num_93" playOrder="93">
+      <navLabel>
+        <text>卷九十三·列傳第六十三</text>
+      </navLabel>
+      <content src="Text/1223.html"/>
+    </navPoint>
+    <navPoint id="num_94" playOrder="94">
+      <navLabel>
+        <text>卷九十四·列傳第六十四</text>
+      </navLabel>
+      <content src="Text/1224.html"/>
+    </navPoint>
+    <navPoint id="num_95" playOrder="95">
+      <navLabel>
+        <text>卷九十五·列傳第六十五</text>
+      </navLabel>
+      <content src="Text/1225.html"/>
+    </navPoint>
+    <navPoint id="num_96" playOrder="96">
+      <navLabel>
+        <text>卷九十六·列傳第六十六</text>
+      </navLabel>
+      <content src="Text/1226.html"/>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>卷九十七·列傳第六十七</text>
+      </navLabel>
+      <content src="Text/1227.html"/>
+    </navPoint>
+    <navPoint id="num_98" playOrder="98">
+      <navLabel>
+        <text>卷九十八·列傳第六十八</text>
+      </navLabel>
+      <content src="Text/1228.html"/>
+    </navPoint>
+    <navPoint id="num_99" playOrder="99">
+      <navLabel>
+        <text>卷九十九·列傳第六十九</text>
+      </navLabel>
+      <content src="Text/1229.html"/>
+    </navPoint>
+    <navPoint id="num_100" playOrder="100">
+      <navLabel>
+        <text>卷一百·列傳第七十</text>
+      </navLabel>
+      <content src="Text/1230.html"/>
+    </navPoint>
+    <navPoint id="num_101" playOrder="101">
+      <navLabel>
+        <text>卷一百一·載記第一</text>
+      </navLabel>
+      <content src="Text/1231.html"/>
+    </navPoint>
+    <navPoint id="num_102" playOrder="102">
+      <navLabel>
+        <text>卷一百二·載記第二</text>
+      </navLabel>
+      <content src="Text/1232.html"/>
+    </navPoint>
+    <navPoint id="num_103" playOrder="103">
+      <navLabel>
+        <text>卷一百三·載記第三</text>
+      </navLabel>
+      <content src="Text/1233.html"/>
+    </navPoint>
+    <navPoint id="num_104" playOrder="104">
+      <navLabel>
+        <text>卷一百四·載記第四</text>
+      </navLabel>
+      <content src="Text/1234.html"/>
+    </navPoint>
+    <navPoint id="num_105" playOrder="105">
+      <navLabel>
+        <text>卷一百五·載記第五</text>
+      </navLabel>
+      <content src="Text/1235.html"/>
+    </navPoint>
+    <navPoint id="num_106" playOrder="106">
+      <navLabel>
+        <text>卷一百六·載記第六</text>
+      </navLabel>
+      <content src="Text/1236.html"/>
+    </navPoint>
+    <navPoint id="num_107" playOrder="107">
+      <navLabel>
+        <text>卷一百七·載記第七</text>
+      </navLabel>
+      <content src="Text/1237.html"/>
+    </navPoint>
+    <navPoint id="num_108" playOrder="108">
+      <navLabel>
+        <text>卷一百八·載記第八</text>
+      </navLabel>
+      <content src="Text/1238.html"/>
+    </navPoint>
+    <navPoint id="num_109" playOrder="109">
+      <navLabel>
+        <text>卷一百九·載記第九</text>
+      </navLabel>
+      <content src="Text/1239.html"/>
+    </navPoint>
+    <navPoint id="num_110" playOrder="110">
+      <navLabel>
+        <text>卷一百十·載記第十</text>
+      </navLabel>
+      <content src="Text/1240.html"/>
+    </navPoint>
+    <navPoint id="num_111" playOrder="111">
+      <navLabel>
+        <text>卷一百十一·載記第十一</text>
+      </navLabel>
+      <content src="Text/1241.html"/>
+    </navPoint>
+    <navPoint id="num_112" playOrder="112">
+      <navLabel>
+        <text>卷一百十二·載記第十二</text>
+      </navLabel>
+      <content src="Text/1242.html"/>
+    </navPoint>
+    <navPoint id="num_113" playOrder="113">
+      <navLabel>
+        <text>卷一百十三·載記第十三</text>
+      </navLabel>
+      <content src="Text/1243.html"/>
+    </navPoint>
+    <navPoint id="num_114" playOrder="114">
+      <navLabel>
+        <text>卷一百十四·載記第十四</text>
+      </navLabel>
+      <content src="Text/1244.html"/>
+    </navPoint>
+    <navPoint id="num_115" playOrder="115">
+      <navLabel>
+        <text>卷一百十五·載記第十五</text>
+      </navLabel>
+      <content src="Text/1245.html"/>
+    </navPoint>
+    <navPoint id="num_116" playOrder="116">
+      <navLabel>
+        <text>卷一百十六·載記第十六</text>
+      </navLabel>
+      <content src="Text/1246.html"/>
+    </navPoint>
+    <navPoint id="num_117" playOrder="117">
+      <navLabel>
+        <text>卷一百十七·載記第十七</text>
+      </navLabel>
+      <content src="Text/1247.html"/>
+    </navPoint>
+    <navPoint id="num_118" playOrder="118">
+      <navLabel>
+        <text>卷一百十八·載記第十八</text>
+      </navLabel>
+      <content src="Text/1248.html"/>
+    </navPoint>
+    <navPoint id="num_119" playOrder="119">
+      <navLabel>
+        <text>卷一百十九·載記第十九</text>
+      </navLabel>
+      <content src="Text/1249.html"/>
+    </navPoint>
+    <navPoint id="num_120" playOrder="120">
+      <navLabel>
+        <text>卷一百二十·載記第二十</text>
+      </navLabel>
+      <content src="Text/1250.html"/>
+    </navPoint>
+    <navPoint id="num_121" playOrder="121">
+      <navLabel>
+        <text>卷一百二十一·載記第二十一</text>
+      </navLabel>
+      <content src="Text/1251.html"/>
+    </navPoint>
+    <navPoint id="num_122" playOrder="122">
+      <navLabel>
+        <text>卷一百二十二·載記第二十二</text>
+      </navLabel>
+      <content src="Text/1252.html"/>
+    </navPoint>
+    <navPoint id="num_123" playOrder="123">
+      <navLabel>
+        <text>卷一百二十三·載記第二十三</text>
+      </navLabel>
+      <content src="Text/1253.html"/>
+    </navPoint>
+    <navPoint id="num_124" playOrder="124">
+      <navLabel>
+        <text>卷一百二十四·載記第二十四</text>
+      </navLabel>
+      <content src="Text/1254.html"/>
+    </navPoint>
+    <navPoint id="num_125" playOrder="125">
+      <navLabel>
+        <text>卷一百二十五·載記第二十五</text>
+      </navLabel>
+      <content src="Text/1255.html"/>
+    </navPoint>
+    <navPoint id="num_126" playOrder="126">
+      <navLabel>
+        <text>卷一百二十六·載記第二十六</text>
+      </navLabel>
+      <content src="Text/1256.html"/>
+    </navPoint>
+    <navPoint id="num_127" playOrder="127">
+      <navLabel>
+        <text>卷一百二十七·載記第二十七</text>
+      </navLabel>
+      <content src="Text/1257.html"/>
+    </navPoint>
+    <navPoint id="num_128" playOrder="128">
+      <navLabel>
+        <text>卷一百二十八·載記第二十八</text>
+      </navLabel>
+      <content src="Text/1258.html"/>
+    </navPoint>
+    <navPoint id="num_129" playOrder="129">
+      <navLabel>
+        <text>卷一百二十九·載記第二十九</text>
+      </navLabel>
+      <content src="Text/1259.html"/>
+    </navPoint>
+    <navPoint id="num_130" playOrder="130">
+      <navLabel>
+        <text>卷一百三十·載記第三十</text>
+      </navLabel>
+      <content src="Text/1260.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
+
