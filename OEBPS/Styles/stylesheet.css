@@ -63,6 +63,12 @@ h1 {
   padding: 0;
 }
 h2 {
+  font-size: 120%;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+}
+h3 {
   font-size: large;
   letter-spacing: 3px;
   margin: 0;
@@ -134,4 +140,7 @@ p:hover .gg-link {
 }
 p.margin2 {
   margin-left:2em;
+}
+p.strong {
+  font-weight: bold;
 }
