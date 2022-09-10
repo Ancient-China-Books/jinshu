@@ -2,8 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="upKqla3JqGiEDyGDhdd9pp6">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>晉書</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="房玄齡等">房玄齡等</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:role="aut" opf:file-as="唐·房玄齡 &amp; 褚遂良">唐·房玄齡</dc:creator>
+    <dc:creator opf:role="aut">褚遂良</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
 &lt;p&gt;唐房玄齡、褚遂良等撰。一百三十卷。唐貞觀十八年，太宗以舊有各家晉書未能盡善，乃命玄齡等以臧榮緒晉書爲主，參攷各家，至二十年書成。太宗自撰宣帝紀武帝紀及陸機王羲之傳論，因號其書曰御撰。李淳風深明星曆，作天文志律曆志。修史設局，出於衆手，開後來官修諸史的先例。全書分紀十、志二十、列傳七十；其載記三十，記五胡十六國事（缺前涼與西涼）。取材豐富，但列傳多採小説傳聞，每涉神怪。總論用駢儷體。吳士鑑撰晉書斠注，對原書有所增補改正。&lt;/p&gt;
@@ -15,12 +16,12 @@
     <dc:subject>斷代史</dc:subject>
     <dc:subject>晉書</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">1b97a2b9-2870-4bd6-8311-8d9d8df2cc01</dc:identifier>
+    <dc:identifier opf:scheme="calibre">a4d89489-97e1-46cc-b054-3e34f9593240</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="晉書" name="calibre:title_sort"/>
     <meta name="cover" content="cover"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;房玄齡等&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;唐·房玄齡&quot;: &quot;&quot;, &quot;褚遂良&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="二十四史" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="6.0" name="calibre:rating"/>
